@@ -1,0 +1,11 @@
+.shop {
+    display: flex;
+    margin: 5vh 8vw;
+    justify-content: space-evenly;
+}
+
+.downArrowGreen {
+    position: absolute;
+    height: 6vh;
+    max-height: 6vh;
+}

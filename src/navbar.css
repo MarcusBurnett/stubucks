@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    background: rgb(16, 22, 42);
+    color: white;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    justify-content: center;
+    position: fixed;
+    width: 80vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    z-index: 10;
+}
+
+li {
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 1.5vh 2vw;
+}
+
+.logo {
+    max-height: 10vw;
+    position: absolute;
+    left: 3vw;
+    top: 1vh;
+
+}

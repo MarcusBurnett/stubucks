@@ -1,0 +1,42 @@
+.ad {
+    background: rgb(16, 22, 42);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 3vw 8vw;
+
+}
+
+.green{
+    color: #2B706F
+}
+
+.stubrewIcedCoffeeImg {
+    max-height: 75vh;
+    margin-top: 8vh;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+}
+
+.textContainer h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    margin: 0;
+}
+
+.textContainer p {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 3rem;
+
+}
+
+.downArrowWhite {
+    position: absolute;
+    max-height: 6vh;
+}

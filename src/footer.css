@@ -1,0 +1,45 @@
+.footer {
+    display: flex;
+    background: #E7E7E7;
+    padding-top: 5vh;
+    padding-bottom: 7vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.footerMenu {
+    width: 40vw;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.share {
+    width: 30vw;
+    margin-left: 10vw;
+    text-align: left;
+}
+
+.icon {
+    height: 4vh;
+    width: 4vh;
+    margin-right: 1.5vh;
+}
+
+.footerMenu li {
+    margin-left: 0;
+    font-weight: 100;
+}
+
+.footer h1 {
+    font-size: 1.7rem;
+
+}
+
+.footerMenu ul {
+    padding-left: 0;
+}
+
+.footerSubMenu {
+    width: 50%;
+}
